@@ -1,4 +1,4 @@
-# Developers Community of Pokhara ( Developers Pokhara )
+# Developers Community of Pokhara - Developers Pokhara
 
 ## Goals
 1. Build a community of developers working and/or based in the city of Pokhara, Nepal.
